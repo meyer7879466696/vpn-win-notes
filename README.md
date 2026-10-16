@@ -1,21 +1,33 @@
-# Hiddify notes for Windows
+# Hiddify VPN Client for Windows 11 & 10
 
-Short notes on running the open-source Hiddify client on Windows 11 and Windows 10.
+**Hiddify VPN Client** — desktop notes for Windows 10/11 (2026).
 
-## Why this repo
-- Personal setup notes
-- Config import reminders
-- Tray and proxy checklist
+[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()
+[![Open page](https://img.shields.io/badge/Open-Project%20Page-16a34a?style=flat-square)]([link])
 
-## Setup checklist
-1. Install the client from the upstream project page
-2. Import a config file
-3. Check the system tray icon
+---
 
-## Changelog
-- 2026-10-09: Config import note
-- 2026-08-03: Windows tray fix note
+## About
 
-## Links
-- Upstream: https://github.com/hiddify/hiddify-app
-- Placeholder: [link]
+Open-source Hiddify client setup notes: config import and tray checklist.
+
+Build note: `2.5.7`. This repository has no installer binary — only short text.
+
+## Download & Install
+
+> Use the project page below. The button target is the placeholder `[link]`.
+
+1. Open the project page at [link]
+2. Save the file from that page
+3. Run the setup if the page provides one
+
+## People also search for
+
+hiddify vpn client windows, hiddify-vpn-client install setup, hiddify vpn client desktop 2026
+
+## Notes
+
+- Windows desktop only
+- Product: `hiddify-vpn-client`
+- Page target: `[link]`
+  
